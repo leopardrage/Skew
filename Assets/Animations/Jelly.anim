@@ -102,7 +102,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: material._Strength
+    attribute: material._SkewStrength
     path: JellyCube
     classID: 23
     script: {fileID: 0}
@@ -123,7 +123,7 @@ AnimationClip:
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 1138006396
-      attribute: 2165294830
+      attribute: 2155806857
       script: {fileID: 0}
       typeID: 23
       customType: 22
@@ -238,7 +238,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: material._Strength
+    attribute: material._SkewStrength
     path: JellyCube
     classID: 23
     script: {fileID: 0}
